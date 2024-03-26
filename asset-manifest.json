@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akhila/static/css/main.f96f07a4.css",
+    "main.js": "/Akhila/static/js/main.c741fbe7.js",
+    "static/js/592.0924c16a.chunk.js": "/Akhila/static/js/592.0924c16a.chunk.js",
+    "index.html": "/Akhila/index.html",
+    "main.f96f07a4.css.map": "/Akhila/static/css/main.f96f07a4.css.map",
+    "main.c741fbe7.js.map": "/Akhila/static/js/main.c741fbe7.js.map",
+    "592.0924c16a.chunk.js.map": "/Akhila/static/js/592.0924c16a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.c741fbe7.js"
+  ]
+}
